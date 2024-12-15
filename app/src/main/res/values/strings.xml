@@ -6,6 +6,45 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
+    <string name="historial">Historial</string>
+
+    <string name="reading_status">
+    Calidad de aire: Buena&#10;
+    CO2: 400 ppm&#10;
+    O₂: 21%&#10;
+    Temperatura: 25°C&#10;
+    Humedad: 60%
+</string>
+    <string name="log_status">
+    1. Fecha: 2024-12-15&#10;
+       Hora: 08:30 AM&#10;
+       Calidad de aire: Buena&#10;
+       CO2: 400 ppm&#10;
+       O₂: 21%&#10;
+       Temperatura: 25°C&#10;
+       Humedad: 60%&#10;&#10;
+    2. Fecha: 2024-12-15&#10;
+       Hora: 09:00 AM&#10;
+       Calidad de aire: Regular&#10;
+       CO2: 800 ppm&#10;
+       O₂: 19%&#10;
+       Temperatura: 27°C&#10;
+       Humedad: 55%&#10;&#10;
+    3. Fecha: 2024-12-15&#10;
+       Hora: 09:30 AM&#10;
+       Calidad de aire: Mala&#10;
+       CO2: 1200 ppm&#10;
+       O₂: 18%&#10;
+       Temperatura: 30°C&#10;
+       Humedad: 50%&#10;&#10;
+    4. Fecha: 2024-12-15&#10;
+       Hora: 10:00 AM&#10;
+       Calidad de aire: Buena&#10;
+       CO2: 450 ppm&#10;
+       O₂: 21%&#10;
+       Temperatura: 24°C&#10;
+       Humedad: 65%
+</string>
 
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
