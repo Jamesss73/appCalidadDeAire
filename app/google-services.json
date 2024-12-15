@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221557857348",
+    "project_id": "sensorcalidadaire-6ac6a",
+    "storage_bucket": "sensorcalidadaire-6ac6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221557857348:android:bc00cce751c07d67343011",
+        "android_client_info": {
+          "package_name": "com.jms.calidaddeaire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Rew6N4mDFDxpq9oX2dI_BHXZq4bHvfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
