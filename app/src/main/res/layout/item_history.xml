@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardElevation="4dp"
+    android:padding="12dp"> <!-- Padding añadido -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp"> <!-- Padding interno adicional -->
+
+        <TextView
+            android:id="@+id/tv_timestamp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Timestamp"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_temperature"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Temperature"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_humidity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Humidity"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_co2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CO2"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_status"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Status"
+            android:textSize="16sp" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
